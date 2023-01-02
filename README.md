@@ -15,7 +15,7 @@
     - Every `Grid` command will be integrated a tiny middleware so that clients can become the server to be uploaded and downloaded in anytime.
     - It assures the `SECURITY` since you can choose the server/peer that you only want to synchronize with.
 - Gridle - Keep your project management flexible and agile
-    - It not only supports code projects, but also any other projects you can come up with.
+    - It not only supports software development projects, but also any other project you can come up with.
     - Flexibility and Ease of Deployment
         - Can be used either privately and publicly
         - well-performeds for team cooperations
